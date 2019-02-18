@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pro"
+    android:orientation="vertical">
+<ImageView
+    android:layout_toLeftOf="@+id/txt_head"
+    android:layout_marginTop="25dp"
+    android:layout_width="@dimen/_50dp"
+    android:layout_marginRight="@dimen/_10dp"
+    android:layout_height="@dimen/_50dp"
+    android:src="@drawable/icon_cc"/>
+    <TextView
+        android:id="@+id/txt_head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:fontFamily="@font/montserrat_medium"
+        android:textSize="25sp"
+        android:textColor="@color/colorAccent"
+        android:text="@string/leadgraph"
+    />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="@dimen/_16dp"
+        android:layout_marginRight="@dimen/_16dp"
+        android:orientation="vertical"
+        app:cardCornerRadius="4dp"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/login_back"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/_16dp"
+                android:fontFamily="@font/montserrat_regular"
+                android:text="LOGIN SECURELY"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/_16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_16dp"
+                android:layout_marginTop="@dimen/_16dp"
+                android:fontFamily="@font/montserrat_light"
+                android:text="UserName"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/_13sp" />
+
+            <EditText
+                android:id="@+id/edit_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_16dp"
+                android:layout_marginRight="@dimen/_16dp"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/username_back"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center_vertical"
+                android:paddingBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="@dimen/_10dp"
+                android:paddingTop="5dp"
+                android:textSize="@dimen/_13sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_16dp"
+                android:layout_marginTop="@dimen/_16dp"
+                android:fontFamily="@font/montserrat_light"
+                android:text="Password"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/_13sp" />
+
+            <EditText
+                android:id="@+id/edit_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_16dp"
+                android:layout_marginRight="@dimen/_16dp"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/username_back"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center_vertical"
+                android:inputType="textPassword"
+                android:paddingBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="@dimen/_10dp"
+                android:paddingTop="5dp"
+                android:textSize="@dimen/_13sp" />
+
+            <Button
+                android:id="@+id/btn_signin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/_16dp"
+                android:background="@drawable/signin_back"
+                android:fontFamily="@font/montserrat_regular"
+                android:text="SIGNIN"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/_13sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/_16dp"
+                android:layout_marginTop="@dimen/_16dp"
+                android:fontFamily="@font/montserrat_regular"
+                android:text="Forgot Password? RESET"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/_13sp" />
+
+            <TextView
+                android:id="@+id/signup_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="@dimen/_16dp"
+                android:layout_marginLeft="@dimen/_16dp"
+                android:layout_marginTop="@dimen/_16dp"
+                android:fontFamily="@font/montserrat_regular"
+                android:text="Dont have an account? SIGNUP"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/_13sp" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

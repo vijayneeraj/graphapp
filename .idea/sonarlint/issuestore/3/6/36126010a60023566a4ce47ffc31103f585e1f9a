@@ -1,0 +1,4 @@
+
+Vsquid:S1226"AIntroduce a new variable instead of reusing the parameter "view".(Áì™‡
+psquid:S00116"URename this field "image_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¶ºÙúÿÿÿÿ
+jsquid:S00116"TRename this field "text_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñá¨ó

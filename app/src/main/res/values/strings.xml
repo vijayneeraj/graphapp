@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LeadGraph</string>
+    <string name="name">Company Name</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="text_permission_deny_message">If you deny this permission basic features of
+        application no longer function.
+    </string>
+    <string name="text_permission_never_message">Some permissions are denied with never ask again so need
+        to be enabled from Settings->Apps->Leadgraph->Permissions
+    </string>
+    <string name="leadgraph">Lead<font color="#303F9F">Graph</font></string>
+</resources>

@@ -1,0 +1,37 @@
+
+fsquid:S1126ø"BReplace this if-then-else statement by a single method invocation.(«Úëàÿÿÿÿÿ8–…±ú-
+Vsquid:S1135§"2Complete the task associated to this TODO comment.(—‹àşÿÿÿÿ8–…±ú-
+zsquid:S00116A"VRename this field "lin_filters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8–…±ú-
+Gsquid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–…±ú-
+qsquid:S001160"RRename this field "add_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8–…±ú-
+Gsquid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–…±ú-
+qsquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 98 to the 15 allowed.(ÕĞáæ8–…±ú-
+zsquid:S001164"[Rename this field "cat_list_catname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é½ÔØ8–…±ú-
+wsquid:S001161"SRename this field "add_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¬¦°úÿÿÿÿ8–…±ú-
+Tsquid:UselessImportCheck)")Remove this unused import 'okhttp3.Call'.(¶Ñ¼Å8–…±ú-
+Gsquid:S1148ı"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–…±ú-
+Gsquid:S16592"*Declare "company_spin" on a separate line.(ê”Á.8–…±ú-
+Gsquid:S1148ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–…±ú-
+Csquid:S16590"%Declare "add_btn" on a separate line.(Íâ¶Œ8–…±ú-
+Lsquid:S16594".Declare "cat_list_catname" on a separate line.(é½ÔØ8–…±ú-
+xsquid:S00116<"TRename this field "st_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÃÙÓúÿÿÿÿ8–…±ú-
+zsquid:S00116@"VRename this field "show_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãáÄ”øÿÿÿÿ8–…±ú-
+vsquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔêõÒüÿÿÿÿ8–…±ú-
+\squid:S1155Š">Use isEmpty() to check whether the collection is empty or not.(ª™ª8–…±ú-
+†squid:UselessImportCheck!"VRemove this unused import 'mobileapp.leadgraph.com.leadgraph.models.CompanyListModel'.(¢ÖÅ—ÿÿÿÿÿ8–…±ú-
+usquid:S001162"WRename this field "company_spin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê”Á.8–…±ú-
+}squid:S001162"_Rename this field "cat_list_companyname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê”Á.8–…±ú-
+jsquid:S1192"FDefine a constant instead of duplicating this literal "pcomp" 4 times.(å‡É„ùÿÿÿÿ8–…±ú-
+qsquid:S001162"SRename this field "save_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê”Á.8–…±ú-
+vsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øêÅşúÿÿÿÿ8–…±ú-
+Lsquid:S1659A")Declare "search_card" on a separate line.(ûŒêÓÿÿÿÿÿ8–…±ú-
+wsquid:S001163"SRename this field "switch_k" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îâ²ôşÿÿÿÿ8–…±ú-
+Hsquid:S16592"+Declare "search_button" on a separate line.(ê”Á.8–…±ú-
+bsquid:S1155¯">Use isEmpty() to check whether the collection is empty or not.(ğËÙŞÿÿÿÿÿ8–…±ú-
+zsquid:S00116A"VRename this field "search_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8–…±ú-
+Osquid:S16592"2Declare "cat_list_companyname" on a separate line.(ê”Á.8–…±ú-
+wsquid:S001166"SRename this field "cat_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ëßšşÿÿÿÿ8–…±ú-
+vsquid:S001162"XRename this field "search_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê”Á.8–…±ú-
+wsquid:S001164"XRename this field "category_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é½ÔØ8–…±ú-
+X"squid:SwitchLastCaseIsDefaultCheckŠ""Add a default case to this switch.(ºÖ8–…±ú-
+tsquid:S001160"URename this field "serach_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8–…±ú-

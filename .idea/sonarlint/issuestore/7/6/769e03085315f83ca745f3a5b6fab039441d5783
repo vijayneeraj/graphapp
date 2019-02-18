@@ -1,0 +1,94 @@
+
+esquid:S1192"IDefine a constant instead of duplicating this literal "Divorced" 3 times.(†ÓÚ¯8±ƒ±÷-
+Jsquid:S1659")Declare "search_name" on a separate line.(¸ïı‚şÿÿÿÿ8±ƒ±÷-
+Ksquid:S1066"/Merge this if statement with the enclosing one.(¾Çß8±ƒ±÷-
+{squid:S00116"YRename this field "search_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ïı‚şÿÿÿÿ8±ƒ±÷-
+vsquid:S00116"YRename this field "CAMERA_REQUEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÇÁ‡8±ƒ±÷-
+Tsquid:S1854"8Remove this useless assignment to local variable "base".(¦è‚î8±ƒ±÷-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8±ƒ±÷-
+Msquid:S1659",Declare "st_designation" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+usquid:S00116"SRename this field "st_blood" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+usquid:S00116"SRename this field "add_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¬¦°úÿÿÿÿ8±ƒ±÷-
+usquid:S00116"SRename this field "st_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+vsquid:S00116"TRename this field "st_aadhar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+Dsquid:S1659"#Declare "state" on a separate line.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+Hsquid:S1659"'Declare "st_aadhar" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+ssquid:S00116"QRename this field "st_dob" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+xsquid:S00116"VRename this field "search_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8±ƒ±÷-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±ƒ±÷-
+msquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¢‰é[8±ƒ±÷-
+Msquid:S1135"2Complete the task associated to this TODO comment.(›½Ÿ28±ƒ±÷-
+tsquid:S00116"RRename this field "st_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+csquid:S1192"GDefine a constant instead of duplicating this literal "p_comp" 3 times.(Û¨¯´8±ƒ±÷-
+xsquid:S00116"VRename this field "lin_filters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8±ƒ±÷-
+fsquid:S1192"JDefine a constant instead of duplicating this literal "UnMarried" 3 times.(ùğ¡ú8±ƒ±÷-
+vsquid:S00116"TRename this field "blood_grp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+†squid:S1488"eImmediately return this expression instead of assigning it to the temporary variable "encodedString".(Èôîÿüÿÿÿÿ8±ƒ±÷-
+xsquid:S00116"VRename this field "st_marrital" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+Jsquid:S1659")Declare "search_card" on a separate line.(ûŒêÓÿÿÿÿÿ8±ƒ±÷-
+rsquid:S00116"URename this field "serach_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8±ƒ±÷-
+Isquid:S1659"(Declare "birth_date" on a separate line.(ÿ…Úİşÿÿÿÿ8±ƒ±÷-
+isquid:S1192"HDefine a constant instead of duplicating this literal "Widowed" 3 times.(ƒ‰ëıÿÿÿÿ8±ƒ±÷-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±ƒ±÷-
+rsquid:S00116"VRename this field "img_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñù™F8±ƒ±÷-
+ssquid:S00116"VRename this field "list_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©©½å8±ƒ±÷-
+Fsquid:S1659"%Declare "st_city" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+Hsquid:S1659"'Declare "pan_staff" on a separate line.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+Lsquid:S1659"+Declare "search_button" on a separate line.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+ysquid:S00116"WRename this field "spin_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±ƒ±÷-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£‘óÏùÿÿÿÿ8±ƒ±÷-
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8±ƒ±÷-
+Jsquid:S1481")Remove this unused "base" local variable.(È±Ğœøÿÿÿÿ8±ƒ±÷-
+xsquid:S00116"VRename this field "email_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+Ksquid:S1659"*Declare "search_pcomp" on a separate line.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+Fsquid:S1659"%Declare "st_name" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+zsquid:S00116"XRename this field "contact_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+ysquid:S00116"WRename this field "aadhar_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+Ysquid:S1854"8Remove this useless assignment to local variable "base".(°éÃÂûÿÿÿÿ8±ƒ±÷-
+wsquid:S00116"URename this field "st_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+Msquid:S1659",Declare "marital_status" on a separate line.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+Msquid:S1659",Declare "search_contact" on a separate line.(¸ïı‚şÿÿÿÿ8±ƒ±÷-
+Isquid:S1659"(Declare "name_staff" on a separate line.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+Lsquid:S1659"+Declare "contact_staff" on a separate line.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+osquid:S00116"RRename this field "add_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8±ƒ±÷-
+vsquid:S00116"TRename this field "pan_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+Jsquid:S1659")Declare "st_marrital" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+Hsquid:S1659"'Declare "blood_grp" on a separate line.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+ssquid:S00116"QRename this field "st_pan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+tsquid:S00116"RRename this field "st_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+{squid:S00116"YRename this field "st_designation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+ysquid:S00116"WRename this field "search_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ïı‚şÿÿÿÿ8±ƒ±÷-
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÀˆóÙ8±ƒ±÷-
+Gsquid:S1659"&Declare "st_state" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+wsquid:S00116"URename this field "birth_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ…Úİşÿÿÿÿ8±ƒ±÷-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÿ§¨Ä8±ƒ±÷-
+Jsquid:S1481")Remove this unused "base" local variable.(È±Ğœøÿÿÿÿ8±ƒ±÷-
+Csquid:S1659""Declare "city" on a separate line.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+usquid:S00116"SRename this field "st_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+xsquid:S00116"VRename this field "st_joindate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+vsquid:S00116"TRename this field "st_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+vsquid:S00116"TRename this field "join_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ…Úİşÿÿÿÿ8±ƒ±÷-
+Esquid:S1659"$Declare "st_dob" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+Asquid:S1659"%Declare "add_btn" on a separate line.(Íâ¶Œ8±ƒ±÷-
+lsquid:S1192"KDefine a constant instead of duplicating this literal "dd-mm-yyyy" 3 times.(ï¾íùÿÿÿÿ8±ƒ±÷-
+xsquid:S00116"VRename this field "search_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ïı‚şÿÿÿÿ8±ƒ±÷-
+Isquid:S1659"(Declare "st_contact" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+dsquid:S1192"HDefine a constant instead of duplicating this literal "Select" 13 times.(Û¨¯´8±ƒ±÷-
+Ksquid:S1659"*Declare "spin_company" on a separate line.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+Ksquid:S1659"*Declare "aadhar_staff" on a separate line.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+Jsquid:S1659")Declare "st_joindate" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+usquid:S00116"SRename this field "save_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(·ûåƒÿÿÿÿÿ8±ƒ±÷-
+Gsquid:S1659"&Declare "st_email" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+Esquid:S1659"$Declare "st_pan" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÉÎÍïıÿÿÿÿ8±ƒ±÷-
+Jsquid:S1659")Declare "designation" on a separate line.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+{squid:S00116"YRename this field "marital_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+zsquid:S00116"]Rename this field "PICK_IMAGE_REQUEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êâ÷ô8±ƒ±÷-
+xsquid:S00116"VRename this field "show_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãáÄ”øÿÿÿÿ8±ƒ±÷-
+wsquid:S00116"URename this field "name_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÜÀóşÿÿÿÿ8±ƒ±÷-
+ysquid:S00116"WRename this field "search_pcomp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+Gsquid:S1659"&Declare "st_blood" on a separate line.(º†‹©ùÿÿÿÿ8±ƒ±÷-
+zsquid:S00116"XRename this field "search_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ç¶Ôøÿÿÿÿ8±ƒ±÷-
+usquid:S00116"SRename this field "switch_k" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îâ²ôşÿÿÿÿ8±ƒ±÷-

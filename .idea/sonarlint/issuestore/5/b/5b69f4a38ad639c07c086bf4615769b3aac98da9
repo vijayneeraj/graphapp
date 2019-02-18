@@ -1,0 +1,38 @@
+
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8©Êö-
+Asquid:S1659"%Declare "add_btn" on a separate line.(Íâ¶Œ8©Êö-
+Gsquid:S1659"+Declare "search_button" on a separate line.(¿èŠ8©Êö-
+Jsquid:S1659".Declare "list_parent_comp" on a separate line.(¿èŠ8©Êö-
+Fsquid:S1659"*Declare "spin_company" on a separate line.(áùŒ·8©Êö-
+Isquid:S1659"-Declare "search_dsg_name" on a separate line.(áùŒ·8©Êö-
+Gsquid:S1659"+Declare "switch_active" on a separate line.(óº‚å8©Êö-
+Jsquid:S1659")Declare "parent_comp" on a separate line.(ëï ôıÿÿÿÿ8©Êö-
+Ksquid:S1659"*Declare "st_parent_id" on a separate line.(ëï ôıÿÿÿÿ8©Êö-
+Csquid:S1659"'Declare "is_active" on a separate line.(®€ä«8©Êö-
+Jsquid:S1659")Declare "search_card" on a separate line.(ûŒêÓÿÿÿÿÿ8©Êö-
+bsquid:S1192"FDefine a constant instead of duplicating this literal "pcomp" 3 times.(‡öØç8©Êö-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„³©±úÿÿÿÿ8©Êö-
+^squid:S1126"BReplace this if-then-else statement by a single method invocation.(³Ëè8©Êö-
+csquid:S1126"BReplace this if-then-else statement by a single method invocation.(Œİïıÿÿÿÿ8©Êö-
+rsquid:S00116"URename this field "serach_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8©Êö-
+osquid:S00116"RRename this field "add_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8©Êö-
+usquid:S00116"SRename this field "add_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¬¦°úÿÿÿÿ8©Êö-
+psquid:S00116"SRename this field "save_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿èŠ8©Êö-
+usquid:S00116"XRename this field "search_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿èŠ8©Êö-
+xsquid:S00116"[Rename this field "list_parent_comp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿èŠ8©Êö-
+xsquid:S00116"[Rename this field "designation_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áùŒ·8©Êö-
+tsquid:S00116"WRename this field "spin_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áùŒ·8©Êö-
+wsquid:S00116"ZRename this field "search_dsg_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áùŒ·8©Êö-
+tsquid:S00116"WRename this field "switch_admin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óº‚å8©Êö-
+usquid:S00116"XRename this field "switch_active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óº‚å8©Êö-
+usquid:S00116"SRename this field "dsg_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëï ôıÿÿÿÿ8©Êö-
+xsquid:S00116"VRename this field "parent_comp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëï ôıÿÿÿÿ8©Êö-
+ysquid:S00116"WRename this field "st_parent_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëï ôıÿÿÿÿ8©Êö-
+psquid:S00116"SRename this field "is_admin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®€ä«8©Êö-
+qsquid:S00116"TRename this field "is_active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®€ä«8©Êö-
+ssquid:S00116"VRename this field "list_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©©½å8©Êö-
+xsquid:S00116"VRename this field "show_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãáÄ”øÿÿÿÿ8©Êö-
+xsquid:S00116"VRename this field "lin_filters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8©Êö-
+xsquid:S00116"VRename this field "search_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8©Êö-
+\squid:UselessImportCheck"4Remove this unused import 'android.widget.CheckBox'.(Ùáb8©Êö-
+{squid:UselessImportCheck"MRemove this unused import 'mobileapp.leadgraph.com.leadgraph.SplashActivity'.(Ä›¡üşÿÿÿÿ8©Êö-

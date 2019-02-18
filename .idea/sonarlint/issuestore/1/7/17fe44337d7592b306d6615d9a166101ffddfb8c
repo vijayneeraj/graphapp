@@ -1,0 +1,10 @@
+
+Gsquid:S1659"&Declare "img_edit" on a separate line.(Ä‘ñªúÿÿÿÿ8Ö¨•ˆ…-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡¨ÁÖ8Ö¨•ˆ…-
+usquid:S00116"SRename this field "img_edit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘ñªúÿÿÿÿ8Ö¨•ˆ…-
+‚squid:UselessImportCheck"TRemove this unused import 'mobileapp.leadgraph.com.leadgraph.models.StaffListModel'.(ã°†şÿÿÿÿ8Ö¨•ˆ…-
+Jsquid:S1659")Declare "companyName" on a separate line.(ÍÏ´ƒûÿÿÿÿ8Ö¨•ˆ…-
+wsquid:S00116"URename this field "img_delete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘ñªúÿÿÿÿ8Ö¨•ˆ…-
+Lsquid:S1659"+Declare "category_name" on a separate line.(ÍÏ´ƒûÿÿÿÿ8Ö¨•ˆ…-
+3squid:S2176"Rename this class.(Â×Öúÿÿÿÿ8Ö¨•ˆ…-
+zsquid:S00116"XRename this field "category_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÏ´ƒûÿÿÿÿ8Ö¨•ˆ…-

@@ -1,0 +1,35 @@
+
+psquid:S1450"TRemove the "login" field and declare it as a local variable in the relevant methods.(’áƒÅ8Ôéı¯-
+wsquid:S00116"URename this field "st_pinCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëıª¬øÿÿÿÿ8Ôéı¯-
+Osquid:S1659".Declare "st_email_contact" on a separate line.(ëıª¬øÿÿÿÿ8Ôéı¯-
+ysquid:S1450"XRemove the "signupBtn" field and declare it as a local variable in the relevant methods.(Ñ’¥ııÿÿÿÿ8Ôéı¯-
+}squid:S00116"[Rename this field "st_numberContact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëıª¬øÿÿÿÿ8Ôéı¯-
+Psquid:S1068"/Remove this unused "countryCode" private field.(„¬´ëıÿÿÿÿ8Ôéı¯-
+wsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ò²—®8Ôéı¯-
+usquid:S00116"SRename this field "st_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+csquid:S1192"GDefine a constant instead of duplicating this literal "Select" 3 times.(Í—şÑ8Ôéı¯-
+Jsquid:S1659")Declare "st_conPName" on a separate line.(ëıª¬øÿÿÿÿ8Ôéı¯-
+}squid:S00116"[Rename this field "st_email_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëıª¬øÿÿÿÿ8Ôéı¯-
+Osquid:S1659".Declare "st_numberContact" on a separate line.(ëıª¬øÿÿÿÿ8Ôéı¯-
+wsquid:S1450"VRemove the "switchK" field and declare it as a local variable in the relevant methods.(ÿ½ß…ûÿÿÿÿ8Ôéı¯-
+Isquid:S1659"(Declare "st_address" on a separate line.(ëıª¬øÿÿÿÿ8Ôéı¯-
+Fsquid:S1659"%Declare "st_city" on a separate line.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+Ksquid:S1659"*Declare "st_ownerName" on a separate line.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+{squid:S1450"ZRemove the "countryCode" field and declare it as a local variable in the relevant methods.(„¬´ëıÿÿÿÿ8Ôéı¯-
+Gsquid:S1659"&Declare "st_email" on a separate line.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+ysquid:S00116"WRename this field "st_ownerName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+wsquid:S00116"URename this field "st_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëıª¬øÿÿÿÿ8Ôéı¯-
+Hsquid:S1659"'Declare "st_number" on a separate line.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+tsquid:S00116"RRename this field "st_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+Jsquid:S1659")Declare "st_industry" on a separate line.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+vsquid:S00116"TRename this field "st_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+Gsquid:S1659"&Declare "st_gstin" on a separate line.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+usquid:S00116"SRename this field "st_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+¡squid:S1862"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(“áª¥8Ôéı¯-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8Ôéı¯-
+Jsquid:S1659")Declare "st_compName" on a separate line.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+xsquid:S00116"VRename this field "st_industry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+Isquid:S1659"(Declare "st_pinCode" on a separate line.(ëıª¬øÿÿÿÿ8Ôéı¯-
+xsquid:S00116"VRename this field "st_compName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+usquid:S00116"SRename this field "st_gstin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‰Êèùÿÿÿÿ8Ôéı¯-
+xsquid:S00116"VRename this field "st_conPName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëıª¬øÿÿÿÿ8Ôéı¯-

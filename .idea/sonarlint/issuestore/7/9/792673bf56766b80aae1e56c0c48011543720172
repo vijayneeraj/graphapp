@@ -1,0 +1,123 @@
+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö”¼8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…áÊ»8Íş“ö-
+wsquid:S00116"URename this field "Owner_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¦Çóúÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÆ‰Õ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ ÁÂùÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(††àæüÿÿÿÿ8Íş“ö-
+wsquid:S00116"URename this field "Login_Idno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïƒõåüÿÿÿÿ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó’ı¶üÿÿÿÿ8Íş“ö-
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½»â=8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Œ‚¢ÿÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÆÁÁşÿÿÿÿ8Íş“ö-
+qsquid:S00116"TRename this field "User_Idno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—·ü¶8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿôİøÿÿÿÿ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¹ºúÿÿÿÿ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(››æÍúÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¬À8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹äŠúşÿÿÿÿ8Íş“ö-
+vsquid:S00116"TRename this field "City_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø„¢ÿüÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛ±ÿÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öàá8Íş“ö-
+usquid:S00116"XRename this field "Company_GSTNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö‚°8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÖ–8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÇ©Ü8Íş“ö-
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûæö=8Íş“ö-
+ƒsquid:S00116"aRename this field "ContactPerson_MobileNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›×Áµúÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø°¢Ãüÿÿÿÿ8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜üÖ†8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğµæà8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ„ß¿úÿÿÿÿ8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö”¼8Íş“ö-
+zsquid:S00116"XRename this field "LoginExp_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ô™©üÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕàŞ´øÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºª¿õşÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†—è8Íş“ö-
+zsquid:S00116"XRename this field "Owner_EmailId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥™¥­şÿÿÿÿ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ê‰üÿÿÿÿ8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Üñü8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÿù´úÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÍ½8Íş“ö-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¨ÎQ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¿Ú¹ûÿÿÿÿ8Íş“ö-
+usquid:S00116"XRename this field "CompanyStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ììµ¼8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜşÊÂ8Íş“ö-
+wsquid:S00116"URename this field "Is_Deleted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆËÌøÿÿÿÿ8Íş“ö-
+msquid:S00116"PRename this field "Valid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿”•‰8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ»úÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¹ºúÿÿÿÿ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÆÁÁşÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¿Ú¹ûÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ö£éúÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ĞÀ”8Íş“ö-
+{squid:S00116"YRename this field "Company_GSTNo1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ€ƒ–ùÿÿÿÿ8Íş“ö-
+ƒsquid:S00116"aRename this field "InsertCompanyUser_Idno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô·±óøÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÖ–8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ„ß¿úÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ê‰üÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿôİøÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì­€Ğ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó’ı¶üÿÿÿÿ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öûŸ—ıÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈåßÂüÿÿÿÿ8Íş“ö-
+vsquid:S00116"TRename this field "City_Idno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì‰Âùÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÕ¸Œûÿÿÿÿ8Íş“ö-
+xsquid:S00116"VRename this field "Description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¼Â­ùÿÿÿÿ8Íş“ö-
+tsquid:S00116"WRename this field "Company_Area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«³öİ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÆÒÃøÿÿÿÿ8Íş“ö-
+vsquid:S00116"YRename this field "Owner_MobileNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‡°Ÿ8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô’ä˜8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÕ¸Œûÿÿÿÿ8Íş“ö-
+rsquid:S00116"URename this field "State_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’úæ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÉøûÿÿÿÿ8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤÷á8Íş“ö-
+}squid:S00116"[Rename this field "CompanyUser_Idno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦°´ÿÿÿÿÿ8Íş“ö-
+psquid:S00116"TRename this field "Is_Active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ôµo8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÿù´úÿÿÿÿ8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©””ˆ8Íş“ö-
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‡¡8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ĞÀ”8Íş“ö-
+vsquid:S00116"TRename this field "LoginHits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾îñäıÿÿÿÿ8Íş“ö-
+zsquid:S00116"XRename this field "Allowed_Staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç—âºıÿÿÿÿ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿõøşÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ïöº8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¬À8Íş“ö-
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ‰r8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤÷á8Íş“ö-
+ysquid:S00116"WRename this field "Country_Idno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÙú¹şÿÿÿÿ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ»úÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜üÖ†8Íş“ö-
+vsquid:S00116"YRename this field "CompanyAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³†Š…8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(››æÍúÿÿÿÿ8Íş“ö-
+squid:S00116"_Rename this field "Company_AddressLine1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‰¸Òıÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦è÷Òÿÿÿÿÿ8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öûŸ—ıÿÿÿÿ8Íş“ö-
+rsquid:S00116"URename this field "Date_Added" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÉÓë8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÍÍ¶8Íş“ö-
+tsquid:S00116"RRename this field "Pincode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‘€³øÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‚ü±8Íş“ö-
+zsquid:S00116"XRename this field "Date_Modified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şĞ³øÿÿÿÿ8Íş“ö-
+vsquid:S00116"ZRename this field "Allowed_Company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È®÷8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÅÃí8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜşÊÂ8Íş“ö-
+psquid:S00116"TRename this field "User_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÍH8Íş“ö-
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¨ÎQ8Íş“ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕàŞ´øÿÿÿÿ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ğğæ8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùíÖ8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‘±‡8Íş“ö-
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù©Ø8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô’ä˜8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÍÔ§8Íş“ö-
+lsquid:S00116"PRename this field "Value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¤úa8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ´¾8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ´¾8Íş“ö-
+}squid:S00116"`Rename this field "ContactPerson_EmailId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ığÚ•8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ ÁÂùÿÿÿÿ8Íş“ö-
+squid:S00116"]Rename this field "ContactPerson_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šØ”çûÿÿÿÿ8Íş“ö-
+tsquid:S00116"WRename this field "Company_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ò‡8Íş“ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÍÔ§8Íş“ö-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Üñü8Íş“ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—àï¶ÿÿÿÿÿ8Ñ¥”ö-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‹¤±ıÿÿÿÿ8Ñ¥”ö-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‹¤±ıÿÿÿÿ8Ñ¥”ö-

@@ -1,0 +1,42 @@
+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 88 to the 15 allowed.(ÕĞáæ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ûâÿúÿÿÿÿ8¶šÊ‡-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ù•±-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä“‡ùşÿÿÿÿ8¶šÊ‡-
+Fsquid:S1068"+Remove this unused "context" private field.(êİç8¶šÊ‡-
+Ssquid:S3972"7Move this "if" to a new line or add the missing "else".(å‚´8Ñš’±-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–¿ıÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä“‡ùşÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†»Œï8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+_squid:S00107"=Method has 21 parameters, which is greater than 7 authorized.(¼Ûâÿúÿÿÿÿ8¶šÊ‡-
+wsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ğ¨Õå8Ñš’±-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ûâÿúÿÿÿÿ8¶šÊ‡-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†»Œï8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Çı”±-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–¿ıÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ûâÿúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–¿ıÿÿÿÿ8¶šÊ‡-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8­ƒ“±-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä“‡ùşÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀ–ïúÿÿÿÿ8¶šÊ‡-
+Msquid:S1172",Remove this unused method parameter "state".(ë–¿ıÿÿÿÿ8¶šÊ‡-
+Msquid:S1172",Remove this unused method parameter "state".(ë–¿ıÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ûâÿúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä“‡ùşÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–¿ıÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ûâÿúÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–¿ıÿÿÿÿ8¶šÊ‡-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–¿ıÿÿÿÿ8¶šÊ‡-
+_squid:S00107"=Method has 22 parameters, which is greater than 7 authorized.(Ä“‡ùşÿÿÿÿ8¶šÊ‡-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ñš’±-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä“‡ùşÿÿÿÿ8¶šÊ‡-
+|squid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(†ÙƒÓşÿÿÿÿ8Òß”±-

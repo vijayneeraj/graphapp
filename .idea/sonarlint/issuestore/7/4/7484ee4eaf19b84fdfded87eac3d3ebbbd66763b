@@ -1,0 +1,60 @@
+
+fsquid:S1192"LDefine a constant instead of duplicating this literal "UNEXPANDED" 17 times.(ı ³’ûÿÿÿÿ
+msquid:S00116"RRename this field "lin_bot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¡“Ëÿÿÿÿÿ
+jsquid:S00116"URename this field "btn_logout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“‡İE
+rsquid:S00116"WRename this field "lead_history" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„æğøÿÿÿÿ
+lsquid:S00116"QRename this field "lf_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¾ÏÑøÿÿÿÿ
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ
+qsquid:S00116"[Rename this field "product_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰áÒÁ
+Asquid:S1659",Declare "master_product" on a separate line.(‰áÒÁ
+nsquid:S00116"XRename this field "utility_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò›öŸ
+psquid:S00116"URename this field "lin_follow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àñ·Åúÿÿÿÿ
+@squid:S1659"+Declare "utility_right" on a separate line.(ò›öŸ
+lsquid:S00116"QRename this field "ll_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¾ÏÑøÿÿÿÿ
+Dsquid:S1659"*Declare "lead_history" on a separate line.(„æğøÿÿÿÿ
+Csquid:S1659")Declare "lead_follow" on a separate line.(„æğøÿÿÿÿ
+rsquid:S1450"]Remove the "navigationView" field and declare it as a local variable in the relevant methods.(‰Ë”ë
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İÖß†8’”ˆ-
+9squid:S1659"$Declare "logout" on a separate line.(È’óù
+osquid:S00116"YRename this field "master_channel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰áÒÁ
+rsquid:S00116"WRename this field "comapny_mail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¬ÉÂşÿÿÿÿ
+Isquid:S1185"(Remove this method to simply inherit it.(œƒƒ©ùÿÿÿÿ8’”ˆ-
+Zsquid:S00107"=Method has 10 parameters, which is greater than 7 authorized.(“ÈËƒ8’”ˆ-
+tsquid:S00116"^Rename this field "channel_designation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰áÒÁ
+osquid:S00116"YRename this field "product_master" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰áÒÁ
+9squid:S1659"$Declare "lf_txt" on a separate line.(œ´ŠÂ
+msquid:S00116"WRename this field "noti_counter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÎÚ
+qsquid:S00116"VRename this field "lin_history" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àñ·Åúÿÿÿÿ
+Isquid:S1905"/Remove this unnecessary cast to "DrawerLayout".(È–œ¼úÿÿÿÿ
+xsquid:S00116"]Rename this field "fragment_container" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑíÄÿÿÿÿÿ
+Asquid:S1659",Declare "product_master" on a separate line.(‰áÒÁ
+Isquid:S1185"(Remove this method to simply inherit it.(ºÚÑÒşÿÿÿÿ8’”ˆ-
+gsquid:S00116"QRename this field "lf_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ´ŠÂ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ğ¸™áúÿÿÿÿ
+csquid:S1192"IDefine a constant instead of duplicating this literal "EXPANDED" 5 times.(ùã°“ÿÿÿÿÿ
+Asquid:S1659"'Declare "lead_lock" on a separate line.(„æğøÿÿÿÿ
+lsquid:S00116"QRename this field "lh_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¾ÏÑøÿÿÿÿ
+gsquid:S00116"QRename this field "lh_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ´ŠÂ
+osquid:S00116"YRename this field "master_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰áÒÁ
+nsquid:S00116"SRename this field "lin_lock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àñ·Åúÿÿÿÿ
+Fsquid:S1659"1Declare "channel_designation" on a separate line.(‰áÒÁ
+Asquid:S1659",Declare "master_channel" on a separate line.(‰áÒÁ
+@squid:S1659"&Declare "lin_lock" on a separate line.(àñ·Åúÿÿÿÿ
+nsquid:S00116"XRename this field "channel_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰áÒÁ
+osquid:S00116"TRename this field "lead_lock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„æğøÿÿÿÿ
+qsquid:S00116"VRename this field "lead_assign" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„æğøÿÿÿÿ
+>squid:S1659"$Declare "lh_img" on a separate line.(õ¾ÏÑøÿÿÿÿ
+gsquid:S00116"QRename this field "ll_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ´ŠÂ
+Csquid:S1659")Declare "lead_assign" on a separate line.(„æğøÿÿÿÿ
+qsquid:S00116"VRename this field "lead_follow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„æğøÿÿÿÿ
+Fsquid:S1905"1Remove this unnecessary cast to "NavigationView".(ãÀÇ
+rsquid:S00116"WRename this field "company_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¬ÉÂşÿÿÿÿ
+@squid:S1659"+Declare "channel_staff" on a separate line.(‰áÒÁ
+>squid:S1659"$Declare "lf_img" on a separate line.(õ¾ÏÑøÿÿÿÿ
+Bsquid:S1659"-Declare "channel_company" on a separate line.(‰áÒÁ
+Csquid:S1659".Declare "product_category" on a separate line.(‰áÒÁ
+7squid:S1659""Declare "home" on a separate line.(‰áÒÁ
+9squid:S1659"$Declare "lh_txt" on a separate line.(œ´ŠÂ
+Bsquid:S1659"(Declare "lin_follow" on a separate line.(àñ·Åúÿÿÿÿ
+Dsquid:S1659"*Declare "comapny_mail" on a separate line.(½¬ÉÂşÿÿÿÿ
+psquid:S00116"ZRename this field "channel_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰áÒÁ

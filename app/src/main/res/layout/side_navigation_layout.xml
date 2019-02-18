@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="300dp"
+    android:layout_height="match_parent"
+    android:background="@color/back_most_grey"
+    android:orientation="vertical">
+
+
+    <ScrollView
+
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@color/white_color">
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/btn_logout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginBottom="@dimen/_10dp"
+                    android:layout_marginLeft="@dimen/_16dp"
+                    android:layout_marginRight="@dimen/_10dp"
+                    android:src="@mipmap/ic_logout"
+                    app:backgroundTint="@color/colorAccent"
+                    app:fabSize="mini" />
+
+                <ImageView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_16dp"
+                    android:src="@mipmap/ic_user" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="80dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/company_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:text="Lorem Ipsum"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/_15sp" />
+
+                    <TextView
+                        android:id="@+id/comapny_mail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:text="mail@mail.com"
+                        android:textColor="@color/grey"
+                        android:textSize="@dimen/_13sp" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:paddingLeft="@dimen/_10dp"
+                    android:id="@+id/home"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:background="@color/light_grey"
+                    android:drawableLeft="@drawable/drawable_menu_home"
+                    android:drawablePadding="@dimen/_16dp"
+
+                    android:drawableTint="@color/red"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Home"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_15sp" />
+
+                <TextView
+                    android:paddingLeft="@dimen/_10dp"
+
+                    android:id="@+id/master"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:background="@color/light_grey"
+                    android:drawableLeft="@drawable/drawable_menu_master"
+                    android:drawablePadding="@dimen/_16dp"
+                    android:drawableRight="@mipmap/ic_drop_right"
+                    android:drawableTint="@color/red"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Masters"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_15sp" />
+
+                <TextView
+                    android:id="@+id/master_product"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/most_light_grey"
+                    android:drawableLeft="@mipmap/ic_menu_dot"
+                    android:drawablePadding="@dimen/_16dp"
+                    android:drawableRight="@mipmap/ic_drop_right"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="20dp"
+                    android:paddingTop="8dp"
+                    android:text="Product"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/product_category"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="60dp"
+                    android:paddingTop="8dp"
+                    android:text="Product Category"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+
+                <TextView
+                    android:id="@+id/product_master"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="60dp"
+                    android:paddingTop="8dp"
+                    android:text="Product Master"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+                <TextView
+                    android:id="@+id/master_channel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@mipmap/ic_menu_dot"
+                    android:drawablePadding="@dimen/_16dp"
+                    android:drawableRight="@mipmap/ic_drop_right"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@color/most_light_grey"
+                    android:paddingLeft="20dp"
+                    android:paddingTop="8dp"
+                    android:text="Channel"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/channel_staff"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:paddingLeft="60dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Channel Staff"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+                <TextView
+                    android:id="@+id/channel_company"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:paddingLeft="60dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Channel Company"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+                <TextView
+                    android:id="@+id/channel_designation"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:paddingLeft="60dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Designation Master"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+                <TextView
+                    android:paddingLeft="@dimen/_10dp"
+
+                    android:id="@+id/lead"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:background="@color/light_grey"
+                    android:drawableLeft="@drawable/drawable_menu_lead"
+                    android:drawablePadding="@dimen/_16dp"
+                    android:drawableRight="@mipmap/ic_drop_right"
+                    android:drawableTint="@color/red"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Lead"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_15sp" />
+
+                <TextView
+                    android:id="@+id/lead_lock"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="60dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Lead Lock"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+                <TextView
+                    android:id="@+id/lead_assign"
+
+                    android:layout_width="match_parent"
+
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="60dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Lead Assign"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+                <TextView
+                    android:id="@+id/lead_follow"
+
+                    android:layout_width="match_parent"
+
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="60dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Lead FollowUp"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+                <TextView
+                    android:id="@+id/lead_history"
+
+                    android:layout_width="match_parent"
+
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="60dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/selection_color"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Lead History"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone"
+
+                    />
+
+                <TextView
+                    android:id="@+id/utility"
+                    android:paddingLeft="@dimen/_10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:background="@color/light_grey"
+                    android:drawableLeft="@drawable/drawable_menu_utility"
+                    android:drawablePadding="@dimen/_16dp"
+                    android:drawableRight="@mipmap/ic_drop_right"
+                    android:drawableTint="@color/red"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="Utility"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_15sp" />
+
+                <TextView
+                    android:id="@+id/utility_right"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_40dp"
+                    android:paddingLeft="60dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/order_selector"
+                    android:drawableTint="@color/colorPrimary"
+                    android:fontFamily="@font/montserrat_regular"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="User Rights"
+                    android:textColor="@color/white_color"
+                    android:textSize="@dimen/_13sp"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

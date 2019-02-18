@@ -1,0 +1,102 @@
+
+usquid:S00116"SRename this field "edit_pin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-
+Jsquid:S1659")Declare "edit_o_name" on a separate line.(ÁÀ’øÿÿÿÿ8š™ö-
+wsquid:S00116"URename this field "st_cp_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+usquid:S00116"SRename this field "add_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¬¦°úÿÿÿÿ8š™ö-
+Hsquid:S1659"'Declare "st_o_name" on a separate line.(çâèûÿÿÿÿ8š™ö-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ô®Ï€ıÿÿÿÿ8š™ö-
+ysquid:S00116"\Rename this field "industry_dropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇÕÙ8š™ö-
+Ksquid:S1659"*Declare "edit_address" on a separate line.(ÁÀ’øÿÿÿÿ8š™ö-
+usquid:S00116"SRename this field "st_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜƒŒ´úÿÿÿÿ8š™ö-
+ysquid:S00116"WRename this field "st_comp_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+Csquid:S1659"'Declare "state_btn" on a separate line.(ÅÇÕÙ8š™ö-
+usquid:S00116"XRename this field "edit_cp_phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âæ·Š8š™ö-
+wsquid:S00116"URename this field "search_gst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—³¼úÿÿÿÿ8š™ö-
+Jsquid:S1659")Declare "st_cp_email" on a separate line.(çâèûÿÿÿÿ8š™ö-
+Isquid:S1659"(Declare "st_city_id" on a separate line.(ÜƒŒ´úÿÿÿÿ8š™ö-
+osquid:S00116"SRename this field "save_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŒµ"8š™ö-
+xsquid:S00116"VRename this field "st_cp_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+qsquid:S00116"TRename this field "state_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇÕÙ8š™ö-
+Gsquid:S1659"+Declare "edit_cp_email" on a separate line.(âæ·Š8š™ö-
+tsquid:S00116"XRename this field "search_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŒµ"8š™ö-
+Esquid:S1659"$Declare "st_gst" on a separate line.(çâèûÿÿÿÿ8š™ö-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8š™ö-
+rsquid:S00116"URename this field "serach_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8š™ö-
+Lsquid:S1659"+Declare "st_allowstaff" on a separate line.(ÜƒŒ´úÿÿÿÿ8š™ö-
+zsquid:S00116"XRename this field "st_allow_comp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜƒŒ´úÿÿÿÿ8š™ö-
+Ksquid:S1659"*Declare "search_email" on a separate line.(â—³¼úÿÿÿÿ8š™ö-
+Gsquid:S1659"+Declare "edit_cp_phone" on a separate line.(âæ·Š8š™ö-
+Gsquid:S1659"&Declare "edit_pin" on a separate line.(ÁÀ’øÿÿÿÿ8š™ö-
+vsquid:S00116"YRename this field "edit_allowComp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âæ·Š8š™ö-
+Isquid:S1659"(Declare "st_o_email" on a separate line.(çâèûÿÿÿÿ8š™ö-
+xsquid:S00116"VRename this field "search_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—³¼úÿÿÿÿ8š™ö-
+Gsquid:S1659"&Declare "st_state" on a separate line.(ÜƒŒ´úÿÿÿÿ8š™ö-
+usquid:S00116"SRename this field "switch_k" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îâ²ôşÿÿÿÿ8š™ö-
+Jsquid:S1659")Declare "st_cp_phone" on a separate line.(çâèûÿÿÿÿ8š™ö-
+tsquid:S00116"RRename this field "st_area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+ssquid:S00116"QRename this field "st_gst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+Nsquid:S1659"-Declare "search_compName" on a separate line.(â—³¼úÿÿÿÿ8š™ö-
+osquid:S00116"RRename this field "add_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8š™ö-
+wsquid:S00116"URename this field "st_o_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+Ksquid:S1659"*Declare "edit_o_email" on a separate line.(ÁÀ’øÿÿÿÿ8š™ö-
+ysquid:S00116"WRename this field "search_oname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—³¼úÿÿÿÿ8š™ö-
+ysquid:S00116"WRename this field "search_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—³¼úÿÿÿÿ8š™ö-
+Jsquid:S1659")Declare "search_card" on a separate line.(ûŒêÓÿÿÿÿÿ8š™ö-
+Jsquid:S1659")Declare "st_industry" on a separate line.(ÜƒŒ´úÿÿÿÿ8š™ö-
+usquid:S00116"XRename this field "edit_cp_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âæ·Š8š™ö-
+zsquid:S00116"XRename this field "st_allowstaff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜƒŒ´úÿÿÿÿ8š™ö-
+xsquid:S00116"[Rename this field "edit_allow_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âæ·Š8š™ö-
+Bsquid:S1659"&Declare "city_btn" on a separate line.(ÅÇÕÙ8š™ö-
+{squid:S00116"YRename this field "edit_o_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-
+|squid:S00116"ZRename this field "search_compName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—³¼úÿÿÿÿ8š™ö-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(©õ‚Àıÿÿÿÿ8š™ö-
+Fsquid:S1659"%Declare "st_area" on a separate line.(çâèûÿÿÿÿ8š™ö-
+xsquid:S00116"VRename this field "search_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8š™ö-
+ysquid:S00116"WRename this field "search_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—³¼úÿÿÿÿ8š™ö-
+xsquid:S00116"VRename this field "lin_filters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8š™ö-
+Hsquid:S1659"'Declare "st_parent" on a separate line.(ÜƒŒ´úÿÿÿÿ8š™ö-
+¡squid:S1862"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(šŞÃÃ8š™ö-
+ysquid:S00116"WRename this field "edit_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-
+ssquid:S00116"QRename this field "st_pin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+xsquid:S00116"VRename this field "st_cp_phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+wsquid:S00116"URename this field "st_city_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜƒŒ´úÿÿÿÿ8š™ö-
+xsquid:S00116"VRename this field "st_industry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜƒŒ´úÿÿÿÿ8š™ö-
+{squid:S00116"YRename this field "search_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—³¼úÿÿÿÿ8š™ö-
+Hsquid:S1659",Declare "parent_company" on a separate line.(ÅÇÕÙ8š™ö-
+Hsquid:S1659"'Declare "edit_area" on a separate line.(ÁÀ’øÿÿÿÿ8š™ö-
+Jsquid:S1659")Declare "search_city" on a separate line.(â—³¼úÿÿÿÿ8š™ö-
+Gsquid:S1659"&Declare "edit_gst" on a separate line.(ÁÀ’øÿÿÿÿ8š™ö-
+vsquid:S00116"YRename this field "parent_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇÕÙ8š™ö-
+Ksquid:S1659"*Declare "search_state" on a separate line.(â—³¼úÿÿÿÿ8š™ö-
+Fsquid:S1659"+Declare "search_button" on a separate line.(ÑŒµ"8š™ö-
+wsquid:S00116"URename this field "st_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş„ô8š™ö-
+Ksquid:S1659"*Declare "edit_cp_name" on a separate line.(ÁÀ’øÿÿÿÿ8š™ö-
+Msquid:S1659",Declare "edit_o_contact" on a separate line.(ÁÀ’øÿÿÿÿ8š™ö-
+Hsquid:S1659",Declare "edit_allowComp" on a separate line.(âæ·Š8š™ö-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(·ûåƒÿÿÿÿÿ8š™ö-
+Jsquid:S1659".Declare "edit_allow_staff" on a separate line.(âæ·Š8š™ö-
+Lsquid:S1659"+Declare "st_allow_comp" on a separate line.(ÜƒŒ´úÿÿÿÿ8š™ö-
+Asquid:S1659"%Declare "add_btn" on a separate line.(Íâ¶Œ8š™ö-
+{squid:S00116"YRename this field "edit_comp_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-
+ysquid:S00116"WRename this field "st_o_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+vsquid:S00116"TRename this field "st_o_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâèûÿÿÿÿ8š™ö-
+ssquid:S00116"VRename this field "list_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©©½å8š™ö-
+hsquid:S1192"GDefine a constant instead of duplicating this literal "Select" 6 times.(÷íÀøÿÿÿÿ8š™ö-
+psquid:S00116"SRename this field "city_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇÕÙ8š™ö-
+vsquid:S00116"TRename this field "st_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜƒŒ´úÿÿÿÿ8š™ö-
+Isquid:S1659"(Declare "st_cp_name" on a separate line.(çâèûÿÿÿÿ8š™ö-
+Isquid:S1659"(Declare "st_address" on a separate line.(çâèûÿÿÿÿ8š™ö-
+xsquid:S00116"VRename this field "show_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãáÄ”øÿÿÿÿ8š™ö-
+Isquid:S1659"(Declare "search_gst" on a separate line.(â—³¼úÿÿÿÿ8š™ö-
+ysquid:S00116"WRename this field "edit_cp_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-
+ysquid:S00116"WRename this field "edit_o_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-
+gsquid:S1192"FDefine a constant instead of duplicating this literal "pcomp" 3 times.(êÈğ—ıÿÿÿÿ8¹ ö-
+Esquid:S1659"$Declare "st_pin" on a separate line.(çâèûÿÿÿÿ8š™ö-
+usquid:S00116"SRename this field "edit_gst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-
+xsquid:S00116"VRename this field "edit_o_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-
+csquid:S1126"BReplace this if-then-else statement by a single method invocation.(Œİïıÿÿÿÿ8š™ö-
+Ksquid:S1659"*Declare "search_oname" on a separate line.(â—³¼úÿÿÿÿ8š™ö-
+isquid:S1871"MThis branch's code block is the same as the block for the branch on line 388.(šŞÃÃ8š™ö-
+Ksquid:S1659"*Declare "st_o_contact" on a separate line.(çâèûÿÿÿÿ8š™ö-
+vsquid:S00116"TRename this field "edit_area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀ’øÿÿÿÿ8š™ö-

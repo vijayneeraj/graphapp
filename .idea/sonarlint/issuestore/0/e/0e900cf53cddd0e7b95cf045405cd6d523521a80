@@ -1,0 +1,10 @@
+
+jsquid:UselessImportCheck"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ8ú¶³Ù-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÕÐáæ8ú¶³Ù-
+Gsquid:S1659"+Declare "edit_username" on a separate line.(Òµ8ú¶³Ù-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ŽºÖ8ú¶³Ù-
+rsquid:S00116"URename this field "btn_signin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹ë8ú¶³Ù-
+usquid:S00116"XRename this field "edit_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òµ8ú¶³Ù-
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ŽºÖ8ú¶³Ù-
+usquid:S00116"XRename this field "edit_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òµ8ú¶³Ù-
+rsquid:S00116"URename this field "signup_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýƒÔ•8ú¶³Ù-

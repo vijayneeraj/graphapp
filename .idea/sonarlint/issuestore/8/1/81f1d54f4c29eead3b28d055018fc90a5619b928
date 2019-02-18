@@ -1,0 +1,12 @@
+
+rsquid:S001169"URename this field "img_delete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘ñªúÿÿÿÿ
+Bsquid:S16599"&Declare "img_edit" on a separate line.(Ä‘ñªúÿÿÿÿ
+Esquid:S16598")Declare "companyName" on a separate line.(éüÍºùÿÿÿÿ
+˜squid:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡¨ÁÖ
+.squid:S21767"Rename this class.(Â×žÖúÿÿÿÿ
+~squid:UselessImportCheck"ZRemove this unused import 'mobileapp.leadgraph.com.leadgraph.models.DesignationListModel'.(†õ ¬
+Asquid:S16598"%Declare "contact" on a separate line.(éüÍºùÿÿÿÿ
+?squid:S16598"#Declare "email" on a separate line.(éüÍºùÿÿÿÿ
+Esquid:S16598")Declare "designation" on a separate line.(éüÍºùÿÿÿÿ
+Dsquid:S16598"(Declare "employname" on a separate line.(éüÍºùÿÿÿÿ
+psquid:S001169"SRename this field "img_edit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘ñªúÿÿÿÿ

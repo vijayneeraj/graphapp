@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682330606155",
+    "firebase_url": "https://demoleadgraph.firebaseio.com",
+    "project_id": "demoleadgraph",
+    "storage_bucket": "demoleadgraph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682330606155:android:44c4df608bde713e",
+        "android_client_info": {
+          "package_name": "mobileapp.leadgraph.com.leadgraph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682330606155-0fumuckvqh5p4t04niapl57e329d30md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobileapp.leadgraph.com.leadgraph",
+            "certificate_hash": "f2ea9d0662ccfa0b0a03eae1dc97b0822283931f"
+          }
+        },
+        {
+          "client_id": "682330606155-8tacvgg7f5e4iprr04ai9elcjgrm7a9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFqvz3SF6F23KosaACoA6S4WUtM6tKxe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682330606155-8tacvgg7f5e4iprr04ai9elcjgrm7a9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

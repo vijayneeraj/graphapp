@@ -1,0 +1,18 @@
+
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ó¢È›8ÌÔ‚±Ž-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝÀùÈýÿÿÿÿ8¼ÜÐú…-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8”Ô€±Ž-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝÀùÈýÿÿÿÿ8¼ÜÐú…-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8èÜý°Ž-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛãîI8¼ÜÐú…-
+Fsquid:S1068"+Remove this unused "context" private field.(êÝç8¼ÜÐú…-
+Ysquid:S00107"<Method has 8 parameters, which is greater than 7 authorized.(âÎƒŸ8¼ÜÐú…-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ„˜Ç8¼ÜÐú…-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÙËìéøÿÿÿÿ8¾žþ°Ž-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¢›ÿ°Ž-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(Âˆçüÿÿÿÿ8µÝÿ°Ž-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8á‚±Ž-
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(®äþÁ8âá†±Ž-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝÀùÈýÿÿÿÿ8¼ÜÐú…-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8éâƒ±Ž-
+osquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 148 to the 15 allowed.(ÕÐáæ8¼ÜÐú…-

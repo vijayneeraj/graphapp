@@ -1,0 +1,7 @@
+
+isquid:UselessImportCheck"BRemove this unused import 'java.util.prefs.PreferenceChangeEvent'.(é“ÿ’øÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(Ø‰ ú
+tsquid:UselessImportCheck"MRemove this unused import 'mobileapp.leadgraph.com.leadgraph.rest.ParamName'.(…îö‰üÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÌ·ÿ8õÁ¤‰Œ-
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àËºº
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(œá¢’8Õšª‰Œ-

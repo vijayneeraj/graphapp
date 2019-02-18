@@ -1,0 +1,14 @@
+
+tsquid:S001167"URename this field "asigned_to" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é©İª8§·Ê‡-
+tsquid:S001167"URename this field "staff_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é©İª8§·Ê‡-
+5squid:S21766"Rename this class.(Â×Öúÿÿÿÿ8§·Ê‡-
+Isquid:S16598"&Declare "img_edit" on a separate line.(Ä‘ñªúÿÿÿÿ8§·Ê‡-
+†squid:UselessImportCheck"VRemove this unused import 'mobileapp.leadgraph.com.leadgraph.models.ProductListModel'.(â”ìùøÿÿÿÿ8§·Ê‡-
+vsquid:S001167"WRename this field "product_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é©İª8§·Ê‡-
+@squid:S16597""Declare "date" on a separate line.(é©İª8§·Ê‡-
+Ÿsquid:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡¨ÁÖ8§·Ê‡-
+Fsquid:S16597"(Declare "asigned_to" on a separate line.(é©İª8§·Ê‡-
+Fsquid:S16597"(Declare "staff_name" on a separate line.(é©İª8§·Ê‡-
+Hsquid:S16597"*Declare "product_name" on a separate line.(é©İª8§·Ê‡-
+ysquid:S001168"URename this field "img_delete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘ñªúÿÿÿÿ8§·Ê‡-
+wsquid:S001168"SRename this field "img_edit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘ñªúÿÿÿÿ8§·Ê‡-

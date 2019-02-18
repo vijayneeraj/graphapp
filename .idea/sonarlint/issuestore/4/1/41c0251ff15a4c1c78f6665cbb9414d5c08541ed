@@ -1,0 +1,25 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯î“àúÿÿÿÿ8âÐÐú…-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8âÐÐú…-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù»ñ"8âÐÐú…-
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÁôÜ¨8£öÃá‹-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öœÆ™8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¦é³ûÿÿÿÿ8âÐÐú…-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù»ñ"8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¸Ùòúÿÿÿÿ8âÐÐú…-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¦é³ûÿÿÿÿ8âÐÐú…-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùø½â8âÐÐú…-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(ÕÐáæ8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯î“àúÿÿÿÿ8âÐÐú…-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù»ñ"8âÐÐú…-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù»ñ"8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¦é³ûÿÿÿÿ8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯î“àúÿÿÿÿ8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯î“àúÿÿÿÿ8âÐÐú…-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¸Ùòúÿÿÿÿ8âÐÐú…-
+_squid:S00107"=Method has 16 parameters, which is greater than 7 authorized.(¯î“àúÿÿÿÿ8âÐÐú…-
+Ysquid:S00107"=Method has 15 parameters, which is greater than 7 authorized.(Ù»ñ"8âÐÐú…-
+Fsquid:S1068"+Remove this unused "context" private field.(êÝç8âÐÐú…-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8âÐÐú…-

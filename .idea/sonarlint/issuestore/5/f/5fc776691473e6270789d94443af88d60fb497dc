@@ -1,0 +1,27 @@
+
+Isquid:S1659"(Declare "st_product" on a separate line.(•¢Œşÿÿÿÿ8ëâ¤ã‹-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïÉİ¤8ëâ¤ã‹-
+Fsquid:S1659"*Declare "spin_product" on a separate line.(ö»‡ª8ëâ¤ã‹-
+usquid:S00116"XRename this field "prospect_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¤„Ù8ëâ¤ã‹-
+rsquid:S00116"URename this field "staff_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¤„Ù8ëâ¤ã‹-
+Gsquid:S1659"+Declare "prospect_name" on a separate line.(ğ¤„Ù8ëâ¤ã‹-
+ssquid:S00116"VRename this field "lead_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»‡ª8ëâ¤ã‹-
+Gsquid:S1659"+Declare "mobile_number" on a separate line.(ğ¤„Ù8ëâ¤ã‹-
+Esquid:S1659")Declare "lead_status" on a separate line.(ö»‡ª8ëâ¤ã‹-
+vsquid:S00116"TRename this field "st_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¢Œşÿÿÿÿ8ëâ¤ã‹-
+csquid:S1192"GDefine a constant instead of duplicating this literal "Select" 3 times.(‡ĞÈ‘8ëâ¤ã‹-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å··8ëâ¤ã‹-
+tsquid:S00116"WRename this field "spin_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»‡ª8ëâ¤ã‹-
+Dsquid:S1659"(Declare "staff_name" on a separate line.(ğ¤„Ù8ëâ¤ã‹-
+}squid:S00116"`Rename this field "prospect_company_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¤„Ù8ëâ¤ã‹-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ãˆúûùÿÿÿÿ8ëâ¤ã‹-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8ëâ¤ã‹-
+wsquid:S00116"URename this field "st_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¢Œşÿÿÿÿ8ëâ¤ã‹-
+tsquid:S00116"WRename this field "spin_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»‡ª8ëâ¤ã‹-
+usquid:S00116"XRename this field "mobile_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¤„Ù8ëâ¤ã‹-
+csquid:UselessImportCheck"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8ëâ¤ã‹-
+Csquid:S1659"'Declare "from_date" on a separate line.(ö»‡ª8ëâ¤ã‹-
+qsquid:S00116"TRename this field "from_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»‡ª8ëâ¤ã‹-
+Asquid:S1659"%Declare "to_date" on a separate line.(ö»‡ª8ëâ¤ã‹-
+msquid:UselessImportCheck"?Remove this unused import 'android.support.v7.widget.CardView'.(ã£æşÿÿÿÿ8ëâ¤ã‹-
+osquid:S00116"RRename this field "to_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»‡ª8ëâ¤ã‹-

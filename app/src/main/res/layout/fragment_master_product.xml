@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/search_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_10dp"
+
+            android:layout_marginRight="@dimen/_10dp"
+            android:visibility="visible"
+            app:cardCornerRadius="4dp"
+            app:cardElevation="4dp"
+            app:cardUseCompatPadding="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+
+                        android:orientation="vertical">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:background="@color/colorPrimary">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_marginLeft="@dimen/_16dp"
+                                android:fontFamily="@font/montserrat_regular"
+                                android:text="Product List"
+                                android:textColor="@color/white_color"
+                                android:textSize="16sp" />
+
+                            <ImageView
+                                android:id="@+id/show_filter"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="@dimen/_16dp"
+                                android:src="@drawable/ic_filter_list_black_24dp" />
+
+                            <ImageView
+                                android:layout_toLeftOf="@+id/show_filter"
+                                android:id="@+id/add_btn"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="@dimen/_16dp"
+                                android:src="@mipmap/ic_add" />
+                        </RelativeLayout>
+
+                        <LinearLayout
+                            android:id="@+id/lin_filters"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/_20dp"
+                            android:layout_marginRight="@dimen/_20dp"
+                            android:layout_marginTop="@dimen/_10dp"
+                            android:layout_weight="2"
+                            android:orientation="horizontal">
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_regular"
+                                    android:text="Date From *"
+                                    android:textSize="@dimen/_15sp" />
+
+                                <TextView
+                                    android:id="@+id/from_date"
+
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="10dp"
+                                    android:background="@drawable/background_spin"
+                                    android:drawableRight="@mipmap/ic_drop_down"
+                                    android:drawableTint="#000000"
+                                    android:fontFamily="@font/montserrat_light"
+                                    android:gravity="center_vertical"
+                                    android:hint="yy-mm-dd"
+                                    android:paddingLeft="@dimen/_16dp"
+                                    android:textColor="#000000"
+                                    android:textSize="@dimen/_16sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/_5dp"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_regular"
+                                    android:text="To Date *"
+                                    android:textSize="@dimen/_15sp" />
+
+                                <TextView
+                                    android:id="@+id/to_date"
+
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="10dp"
+                                    android:background="@drawable/background_spin"
+                                    android:drawableRight="@mipmap/ic_drop_down"
+                                    android:drawableTint="#000000"
+                                    android:fontFamily="@font/montserrat_light"
+                                    android:gravity="center_vertical"
+                                    android:hint="yy-mm-dd"
+                                    android:paddingLeft="@dimen/_16dp"
+                                    android:textColor="#000000"
+                                    android:textSize="@dimen/_16sp" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/_20dp"
+                            android:layout_marginRight="@dimen/_20dp"
+                            android:layout_marginTop="@dimen/_20dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/montserrat_regular"
+                                android:text="Company *"
+                                android:textSize="@dimen/_15sp" />
+
+                            <TextView
+                                android:id="@+id/search_company"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:background="@drawable/background_spin"
+                                android:drawableRight="@mipmap/ic_drop_down"
+                                android:drawableTint="#000000"
+                                android:fontFamily="@font/montserrat_light"
+                                android:gravity="center_vertical"
+                                android:paddingLeft="@dimen/_16dp"
+                                android:text="Select"
+                                android:textColor="#000000"
+                                android:textSize="@dimen/_16sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/_20dp"
+                            android:layout_marginRight="@dimen/_20dp"
+                            android:layout_marginTop="@dimen/_20dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:fontFamily="@font/montserrat_regular"
+                                android:text="Product *"
+                                android:textSize="@dimen/_15sp" />
+
+                            <EditText
+                                android:id="@+id/search_product"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:background="@drawable/background_spin"
+                                android:fontFamily="@font/montserrat_light"
+                                android:gravity="center_vertical"
+                                android:hint=""
+                                android:paddingBottom="@dimen/_5dp"
+                                android:paddingLeft="@dimen/_16dp"
+                                android:paddingTop="@dimen/_5dp"
+                                android:textColor="#000000"
+                                android:textSize="@dimen/_16sp" />
+                        </LinearLayout>
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/_20dp"
+                            android:layout_marginLeft="@dimen/_20dp"
+                            android:layout_marginRight="@dimen/_20dp"
+                            android:layout_marginTop="@dimen/_20dp">
+
+
+                            <TextView
+                                android:id="@+id/search_button"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:background="@drawable/save_button"
+                                android:fontFamily="@font/montserrat_light"
+                                android:paddingBottom="@dimen/_10dp"
+                                android:paddingLeft="@dimen/_30dp"
+                                android:paddingRight="@dimen/_30dp"
+                                android:paddingTop="@dimen/_10dp"
+                                android:text="Search"
+                                android:textAllCaps="true"
+                                android:textColor="@color/white_color"
+                                android:textSize="@dimen/text_size_regular_large" />
+                        </RelativeLayout>
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </ScrollView>
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/list_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_10dp"
+            android:layout_marginRight="@dimen/_10dp"
+            app:layoutManager="android.support.v7.widget.LinearLayoutManager">
+
+        </android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/add_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="@dimen/_10dp"
+        android:layout_marginRight="@dimen/_10dp"
+        android:visibility="visible"
+        app:cardCornerRadius="4dp"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@color/colorPrimary">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/_16dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:text="Product Master"
+                        android:textColor="@color/white_color"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/serach_btn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/_16dp"
+                        android:src="@mipmap/ic_search" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_20dp"
+                    android:layout_marginRight="@dimen/_20dp"
+                    android:layout_marginTop="@dimen/_20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:text="Company Name *"
+                        android:textSize="@dimen/_15sp" />
+
+                    <TextView
+                        android:id="@+id/spin_company"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/background_spin"
+                        android:drawableRight="@mipmap/ic_drop_down"
+                        android:drawableTint="#000000"
+                        android:fontFamily="@font/montserrat_light"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="@dimen/_16dp"
+                        android:text="Select"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/_16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_20dp"
+                    android:layout_marginRight="@dimen/_20dp"
+                    android:layout_marginTop="@dimen/_20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:text="Category *"
+                        android:textSize="@dimen/_15sp" />
+
+                    <TextView
+                        android:id="@+id/categoriesText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/background_spin"
+                        android:drawableRight="@mipmap/ic_drop_down"
+                        android:drawableTint="#000000"
+                        android:fontFamily="@font/montserrat_light"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="@dimen/_16dp"
+                        android:text="Select"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/_16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_20dp"
+                    android:layout_marginRight="@dimen/_20dp"
+                    android:layout_marginTop="@dimen/_20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:text="Product *"
+                        android:textSize="@dimen/_15sp" />
+
+                    <EditText
+                        android:id="@+id/product_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/background_spin"
+                        android:fontFamily="@font/montserrat_light"
+                        android:gravity="center_vertical"
+                        android:paddingBottom="@dimen/_5dp"
+                        android:paddingLeft="@dimen/_16dp"
+                        android:paddingTop="@dimen/_5dp"
+                        android:text=""
+                        android:textColor="#000000"
+                        android:textSize="@dimen/_16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_20dp"
+                    android:layout_marginRight="@dimen/_20dp"
+                    android:layout_marginTop="@dimen/_20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:text="Product Cost *"
+                        android:textSize="@dimen/_15sp" />
+
+                    <EditText
+                        android:id="@+id/product_cost"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/background_spin"
+                        android:fontFamily="@font/montserrat_light"
+                        android:gravity="center_vertical"
+                        android:inputType="numberDecimal"
+                        android:paddingBottom="@dimen/_5dp"
+                        android:paddingLeft="@dimen/_16dp"
+                        android:paddingTop="@dimen/_5dp"
+                        android:text=""
+                        android:textColor="#000000"
+                        android:textSize="@dimen/_16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_20dp"
+                    android:layout_marginRight="@dimen/_20dp"
+                    android:layout_marginTop="@dimen/_20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:text="Effective Date *"
+                        android:textSize="@dimen/_15sp" />
+
+                    <TextView
+                        android:id="@+id/effective_date"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/background_spin"
+                        android:drawableRight="@mipmap/ic_drop_down"
+                        android:drawableTint="#000000"
+                        android:fontFamily="@font/montserrat_light"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="@dimen/_16dp"
+                        android:text="yy-mm-dd"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/_16sp" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_50dp"
+                    android:layout_marginLeft="@dimen/_20dp"
+                    android:layout_marginRight="@dimen/_20dp"
+                    android:layout_marginTop="@dimen/_20dp">
+
+                    <Switch
+                        android:id="@+id/switch_k"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:switchMinWidth="@dimen/_40dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/_16dp"
+                        android:layout_toRightOf="@+id/switch_k"
+                        android:fontFamily="@font/montserrat_light"
+                        android:text="IS Active"
+                        android:textSize="@dimen/_15sp" />
+
+                    <TextView
+                        android:id="@+id/save_btn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/save_button"
+                        android:fontFamily="@font/montserrat_light"
+                        android:paddingBottom="@dimen/_10dp"
+                        android:paddingLeft="@dimen/_30dp"
+                        android:paddingRight="@dimen/_30dp"
+                        android:paddingTop="@dimen/_10dp"
+                        android:text="Save"
+                        android:textAllCaps="true"
+                        android:textColor="@color/white_color"
+                        android:textSize="@dimen/text_size_regular_large" />
+                </RelativeLayout>
+
+            </LinearLayout>
+        </ScrollView>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

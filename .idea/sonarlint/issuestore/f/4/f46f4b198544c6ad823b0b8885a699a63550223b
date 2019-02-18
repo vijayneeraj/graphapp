@@ -1,0 +1,41 @@
+
+X"squid:SwitchLastCaseIsDefaultCheck‚""Add a default case to this switch.(ºÖ8†—¶ú-
+Csquid:S1659)"%Declare "add_btn" on a separate line.(Íâ¶Œ8†—¶ú-
+Esquid:S1659+"'Declare "from_date" on a separate line.(Ùİ¦ş8†—¶ú-
+Jsquid:S1659+",Declare "effective_date" on a separate line.(Ùİ¦ş8†—¶ú-
+Jsquid:S1659+",Declare "search_company" on a separate line.(Ùİ¦ş8†—¶ú-
+Dsquid:S1659,"&Declare "save_btn" on a separate line.(Àà˜½8†—¶ú-
+Msquid:S1659-"*Declare "product_name" on a separate line.(µÚÂ²şÿÿÿÿ8†—¶ú-
+Osquid:S1659-",Declare "search_product" on a separate line.(µÚÂ²şÿÿÿÿ8†—¶ú-
+Osquid:S16593",Declare "categoriesText" on a separate line.(š£´¸úÿÿÿÿ8†—¶ú-
+Gsquid:S16594")Declare "st_category" on a separate line.(¿­êŠ8†—¶ú-
+Jsquid:S16594",Declare "st_productName" on a separate line.(¿­êŠ8†—¶ú-
+Jsquid:S16594",Declare "st_productCost" on a separate line.(¿­êŠ8†—¶ú-
+Lsquid:S16594".Declare "st_effectiveDate" on a separate line.(¿­êŠ8†—¶ú-
+Lsquid:S1659<")Declare "search_card" on a separate line.(ûŒêÓÿÿÿÿÿ8†—¶ú-
+fsquid:S1192–"GDefine a constant instead of duplicating this literal "Select" 3 times.(‡öØç8†—¶ú-
+esquid:S1192–"FDefine a constant instead of duplicating this literal "pcomp" 3 times.(‡öØç8†—¶ú-
+asquid:S1126Ü"BReplace this if-then-else statement by a single method invocation.(Ä›¥´8†—¶ú-
+tsquid:S00116)"URename this field "serach_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8†—¶ú-
+qsquid:S00116)"RRename this field "add_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8†—¶ú-
+wsquid:S00116*"SRename this field "add_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¬¦°úÿÿÿÿ8†—¶ú-
+qsquid:S00116+"RRename this field "to_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùİ¦ş8†—¶ú-
+ssquid:S00116+"TRename this field "from_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùİ¦ş8†—¶ú-
+xsquid:S00116+"YRename this field "effective_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùİ¦ş8†—¶ú-
+xsquid:S00116+"YRename this field "search_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùİ¦ş8†—¶ú-
+wsquid:S00116,"XRename this field "search_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àà˜½8†—¶ú-
+rsquid:S00116,"SRename this field "save_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àà˜½8†—¶ú-
+{squid:S00116-"WRename this field "product_cost" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÚÂ²şÿÿÿÿ8†—¶ú-
+{squid:S00116-"WRename this field "product_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÚÂ²şÿÿÿÿ8†—¶ú-
+}squid:S00116-"YRename this field "search_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÚÂ²şÿÿÿÿ8†—¶ú-
+wsquid:S00116."SRename this field "switch_k" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îâ²ôşÿÿÿÿ8†—¶ú-
+{squid:S001163"WRename this field "spin_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š£´¸úÿÿÿÿ8†—¶ú-
+ssquid:S001164"TRename this field "st_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­êŠ8†—¶ú-
+usquid:S001164"VRename this field "st_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­êŠ8†—¶ú-
+xsquid:S001164"YRename this field "st_productName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­êŠ8†—¶ú-
+xsquid:S001164"YRename this field "st_productCost" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­êŠ8†—¶ú-
+zsquid:S001164"[Rename this field "st_effectiveDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­êŠ8†—¶ú-
+usquid:S001168"VRename this field "list_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©©½å8†—¶ú-
+zsquid:S00116;"VRename this field "show_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãáÄ”øÿÿÿÿ8†—¶ú-
+zsquid:S00116<"VRename this field "lin_filters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8†—¶ú-
+zsquid:S00116<"VRename this field "search_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8†—¶ú-

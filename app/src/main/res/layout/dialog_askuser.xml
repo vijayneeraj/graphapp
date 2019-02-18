@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_marginLeft="@dimen/_20dp"
+
+        android:layout_marginRight="@dimen/_20dp"
+        android:background="@drawable/back_ask_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center_horizontal"
+            android:id="@+id/txt_msg"
+            android:layout_marginTop="@dimen/_20dp"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/montserrat_regular"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_regular_large"
+            android:text="@string/text_permission_deny_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="@dimen/_20dp"
+            android:layout_below="@+id/txt_msg"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="@dimen/_20dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/btn_yes"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="@font/montserrat_regular"
+                android:textColor="@color/_3c79b8"
+                android:textSize="@dimen/text_size_regular_large"
+                android:text="YES"
+                android:padding="@dimen/_5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/btn_no"
+                android:layout_marginRight="@dimen/_20dp"
+                android:layout_marginLeft="@dimen/_40dp"
+                android:padding="@dimen/_5dp"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="@font/montserrat_regular"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_regular_large"
+                android:text="NO"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</RelativeLayout>

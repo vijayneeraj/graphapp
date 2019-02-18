@@ -1,0 +1,9 @@
+
+Rsquid:S1172"1Remove this unused method parameter "country_id".(”¦ò¡øÿÿÿÿ8Û°Ú¶Ž-
+csquid:S2259"GA "NullPointerException" could be thrown; "cityModel" is nullable here.(ê¿¸ÿ8Û°Ú¶Ž-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Û°Ú¶Ž-
+Psquid:S1066"/Merge this if statement with the enclosing one.(©õéáÿÿÿÿÿ8Û°Ú¶Ž-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°•ÿ’úÿÿÿÿ8Û°Ú¶Ž-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÕÐáæ8Û°Ú¶Ž-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¦ò¡øÿÿÿÿ8Û°Ú¶Ž-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Û°Ú¶Ž-

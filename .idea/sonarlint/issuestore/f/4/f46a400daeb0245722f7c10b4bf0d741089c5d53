@@ -1,0 +1,96 @@
+
+wsquid:S00116"URename this field "st_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+tsquid:S00116"XRename this field "spin_leadType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–“8Ş”†Œ-
+ysquid:S00116"]Rename this field "alt_contact_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó†8Ş”†Œ-
+qsquid:S00116"TRename this field "demo_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅÅ—8Ş”†Œ-
+Fsquid:S1659"%Declare "st_lang" on a separate line.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+usquid:S00116"SRename this field "switch_k" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îâ²ôşÿÿÿÿ8Ş”†Œ-
+Gsquid:S1659"+Declare "search_button" on a separate line.(ıÅÅ—8Ş”†Œ-
+Psquid:S1659"/Declare "st_caseLockNumber" on a separate line.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+tsquid:S00116"RRename this field "st_lang" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+Isquid:S1659"(Declare "st_contact" on a separate line.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+xsquid:S00116"VRename this field "lin_filters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8Ş”†Œ-
+Isquid:S1659"(Declare "st_product" on a separate line.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+tsquid:S00116"XRename this field "spin_language" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–“8Ş”†Œ-
+psquid:S1192"ODefine a constant instead of duplicating this literal "date required!" 3 times.(É—×Æúÿÿÿÿ8×¤¾°-
+Asquid:S1659"%Declare "to_date" on a separate line.(ıÅÅ—8Ş”†Œ-
+Lsquid:S1659"+Declare "st_leadStatus" on a separate line.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ãˆúûùÿÿÿÿ8×¤¾°-
+Csquid:S1659"'Declare "demo_date" on a separate line.(ıÅÅ—8Ş”†Œ-
+rsquid:S00116"URename this field "st_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÆ‰›8Ş”†Œ-
+Isquid:S1659".Declare "case_lock_number" on a separate line.(Ó†8Ş”†Œ-
+wsquid:S00116"URename this field "st_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+Fsquid:S1659"%Declare "st_city" on a separate line.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+ssquid:S00116"WRename this field "price_quoted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó†8Ş”†Œ-
+rsquid:S00116"URename this field "serach_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8Ş”†Œ-
+osquid:S00116"RRename this field "to_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅÅ—8Ş”†Œ-
+tsquid:S00116"WRename this field "st_demo_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÆ‰›8Ş”†Œ-
+@squid:S1659"%Declare "remarks" on a separate line.(Ó†8Ş”†Œ-
+Gsquid:S1659"&Declare "st_staff" on a separate line.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+vsquid:S00116"ZRename this field "spin_leadstatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–“8Ş”†Œ-
+usquid:S00116"SRename this field "st_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+csquid:S1126"BReplace this if-then-else statement by a single method invocation.(šµ§Èùÿÿÿÿ8×¤¾°-
+tsquid:S00116"RRename this field "st_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+hsquid:S1192"GDefine a constant instead of duplicating this literal "Select" 9 times.(¯ì°šüÿÿÿÿ8Ş”†Œ-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïÉİ¤8×¤¾°-
+zsquid:S00116"XRename this field "st_altContact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+tsquid:S00116"WRename this field "st_demo_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÆ‰›8Ş”†Œ-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å··8×¤¾°-
+tsquid:S00116"XRename this field "prospect_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó†8Ş”†Œ-
+xsquid:S00116"VRename this field "search_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒêÓÿÿÿÿÿ8Ş”†Œ-
+Csquid:S1659"'Declare "from_date" on a separate line.(ıÅÅ—8Ş”†Œ-
+ssquid:S00116"WRename this field "spin_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–“8Ş”†Œ-
+qsquid:S00116"URename this field "spin_staff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–“8Ş”†Œ-
+?squid:S1659"#Declare "state" on a separate line.(ıÅÅ—8Ş”†Œ-
+Gsquid:S1659"&Declare "st_price" on a separate line.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+Fsquid:S1659"+Declare "prospect_name" on a separate line.(Ó†8Ş”†Œ-
+Msquid:S1659"1Declare "search_spin_company" on a separate line.(ıÅÅ—8Ş”†Œ-
+usquid:S00116"XRename this field "search_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅÅ—8Ş”†Œ-
+usquid:S00116"SRename this field "st_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+qsquid:S00116"TRename this field "demo_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅÅ—8Ş”†Œ-
+xsquid:S00116"VRename this field "st_leadType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+Csquid:S1659"(Declare "spin_staff" on a separate line.(ã–“8Ş”†Œ-
+Ksquid:S1659"*Declare "st_date_date" on a separate line.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+Esquid:S1659"*Declare "price_quoted" on a separate line.(Ó†8Ş”†Œ-
+Jsquid:S1659")Declare "st_nextdate" on a separate line.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+vsquid:S00116"TRename this field "st_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ëï§8Ş”†Œ-
+Hsquid:S1659"-Declare "spin_leadstatus" on a separate line.(ã–“8Ş”†Œ-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8Ş”†Œ-
+qsquid:S00116"TRename this field "from_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅÅ—8Ş”†Œ-
+ssquid:S00116"WRename this field "spin_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–“8Ş”†Œ-
+Gsquid:S1659",Declare "contact_number" on a separate line.(Ó†8Ş”†Œ-
+Csquid:S1659"'Declare "demo_time" on a separate line.(ıÅÅ—8Ş”†Œ-
+usquid:S00116"SRename this field "st_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+ssquid:S00116"VRename this field "list_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©©½å8Ş”†Œ-
+Jsquid:S1659")Declare "st_leadType" on a separate line.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+Asquid:S1659"%Declare "add_btn" on a separate line.(Íâ¶Œ8Ş”†Œ-
+Ksquid:S1659"0Declare "date_next_followup" on a separate line.(ã–“8Ş”†Œ-
+>squid:S1659""Declare "city" on a separate line.(ıÅÅ—8Ş”†Œ-
+xsquid:S00116"VRename this field "st_nextdate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+Jsquid:S1659")Declare "st_prospect" on a separate line.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+wsquid:S00116"[Rename this field "case_lock_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó†8Ş”†Œ-
+qsquid:S00116"TRename this field "date_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅÅ—8Ş”†Œ-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(·ûåƒÿÿÿÿÿ8Í ´°-
+Gsquid:S1659"&Declare "st_state" on a separate line.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+osquid:S00116"RRename this field "add_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íâ¶Œ8Ş”†Œ-
+usquid:S00116"YRename this field "contact_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó†8Ş”†Œ-
+Fsquid:S1659"*Declare "st_demo_time" on a separate line.(ƒÆ‰›8Ş”†Œ-
+Fsquid:S1659"+Declare "spin_language" on a separate line.(ã–“8Ş”†Œ-
+ysquid:S00116"]Rename this field "date_next_followup" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–“8Ş”†Œ-
+xsquid:S00116"VRename this field "show_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãáÄ”øÿÿÿÿ8Ş”†Œ-
+ysquid:S00116"WRename this field "st_date_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+Csquid:S1659"'Declare "date_date" on a separate line.(ıÅÅ—8Ş”†Œ-
+xsquid:S00116"VRename this field "st_prospect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+Lsquid:S1659"+Declare "st_altContact" on a separate line.(ê’¡ßøÿÿÿÿ8Ş”†Œ-
+Dsquid:S1659"(Declare "st_remarks" on a separate line.(ƒÆ‰›8Ş”†Œ-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÿ§¨Ä8×¤¾°-
+usquid:S00116"SRename this field "add_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¬¦°úÿÿÿÿ8Ş”†Œ-
+{squid:S00116"^Rename this field "search_spin_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅÅ—8Ş”†Œ-
+zsquid:S00116"XRename this field "st_leadStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+~squid:S00116"\Rename this field "st_caseLockNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ê°üÿÿÿÿ8Ş”†Œ-
+Esquid:S1659"*Declare "spin_product" on a separate line.(ã–“8Ş”†Œ-
+Fsquid:S1659"*Declare "st_demo_date" on a separate line.(ƒÆ‰›8Ş”†Œ-
+psquid:S00116"SRename this field "save_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅÅ—8Ş”†Œ-
+Fsquid:S1659"+Declare "spin_leadType" on a separate line.(ã–“8Ş”†Œ-
+Jsquid:S1659")Declare "search_card" on a separate line.(ûŒêÓÿÿÿÿÿ8Ş”†Œ-
